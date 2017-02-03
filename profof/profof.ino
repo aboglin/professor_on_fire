@@ -1,7 +1,7 @@
 /*
  * Goertzel algo: Jacob Rosenthal: https://github.com/jacobrosenthal/Goertzel
  * Neopixels: Adafruit
- * Guidance: Todd, Park, Jay Zuerdorfer, and Scott Gililland
+ * Guidance: Todd Park, Jay Zuerndorfer, and Scott Gilliland
  * Created by Ceara Byrne
  * Pulsing was adapted from: https://myriadwhimsies.wordpress.com/2011/03/20/i-love-you-like-nature-loves-sine-waves/
 */
